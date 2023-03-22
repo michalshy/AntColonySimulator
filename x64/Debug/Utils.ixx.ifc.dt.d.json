@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\michin\\desktop\\projekty\\neural network\\neural network\\utils.ixx",
+        "ProvidedModule": "Utils",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\random",
+                "BMI": "C:\\Users\\Michin\\Desktop\\projekty\\neural network\\Neural Network\\x64\\Debug\\random.ifc.dt"
+            }
+        ]
+    }
+}
